@@ -14,7 +14,7 @@ public class QueryProcessor {
         } else if (query.contains("name")) {
            return "Flo";
         } else {
-            return "answer";
+            return "answern";
         }
     }
 }
